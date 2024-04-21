@@ -1,0 +1,11 @@
+id,fname,lname,salary,gender,pincode,location
+1,Ganesh,Patel,77,M,NULL,NULL
+2,Mohit,Jasrotia,78,M,NULL,NULL
+3,Ruhi,Jaiswal,82,F,NULL,NULL
+4,Abhi,Pandey,67,M,NULL,NULL
+5,Kanchan,Gupta,93,F,NULL,NULL
+6,Juhi,Joshi,97,F,NULL,NULL
+7,harsh,Patil,88,M,NULL,NULL
+8,Aditi,Pandey,82,F,NULL,NULL
+9,Bhavesh,Singh,77,M,NULL,NULL
+10,Preeti,Sharma,77,F,NULL,NULL
